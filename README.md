@@ -1,4 +1,4 @@
-# Hospitality_Domain
+# Hospitality Domain
 Real Life Data Analytics through Power BI In Hospitality Domain
 
  [Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiNTNkYzUyNzktM2ZmNC00ODA2LThlNGYtYWY4NWFhM2EwN2IxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection)
